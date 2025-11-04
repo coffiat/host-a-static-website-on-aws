@@ -1,3 +1,4 @@
+![Alt test](/Host_a_Static_Website_on_AWS.png)
 ---
 
 # 🌐 Host a Static Website on AWS
